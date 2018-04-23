@@ -1,0 +1,7 @@
+﻿  lab1.cpp
+c:\users\user\source\repos\lab1\lab1\lab1.cpp(4): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+  c:\users\user\source\repos\lab1\lab1\lab1.cpp(4): note: аргументы командной строки:  см. предыдущее определение "_CRT_SECURE_NO_WARNINGS"
+c:\users\user\source\repos\lab1\lab1\lab1.cpp(4): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\user\source\repos\lab1\lab1\lab1.cpp(4): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\user\source\repos\lab1\lab1\lab1.cpp(6): note: использование предварительно скомпилированного заголовка
+  lab1.vcxproj -> C:\Users\User\source\repos\lab1\Debug\lab1.exe
